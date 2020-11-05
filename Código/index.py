@@ -3,14 +3,15 @@ from time import sleep
 from interface import *
 
 while True:
-    linha('Simulador de Dado')
+    linha('Simulador de Dado', cor='\033[33m')
     op = opção()
     if op == 1:
-        linha('Gerando Dados')
-        for c in range(2):
-            print(f'{c+1}º Dado: {randint(0, 6)}')
-            sleep(1.5)
+        opc = leiaint('Quantos dados deseja gerar? ')
+        linha('Gerando Dados', cor='\033[33m')
+        for c in range(opc):
+            print(f'\033[30m{c+1}º Dado: {randint(0, 6)}\033[m')
+            sleep(0.5)
     if op == 2:
-        linha('FINALIZANDO PROGAMA')
+        linha('FINALIZANDO PROGAMA', cor='\033[31m', show=False)
         sleep(1)
         break
