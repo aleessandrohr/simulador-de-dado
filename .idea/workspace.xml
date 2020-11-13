@@ -19,14 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="743276ac-8975-4342-97e7-48a596db4409" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tkinter/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tkinter/interface.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Código/funções.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Código/index.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Código/interface.py" beforeDir="false" />
-    </list>
+    <list default="true" id="743276ac-8975-4342-97e7-48a596db4409" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +36,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jnXcTPbEuSbgOBmjWc1YviaKEx" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -53,9 +46,9 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/Alessandro" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager" selected="Python.interface (2)">
     <configuration name="index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -185,12 +178,12 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main" />
       <item itemvalue="Python.index" />
-      <item itemvalue="Python.interface" />
-      <item itemvalue="Python.teste" />
       <item itemvalue="Python.interface (1)" />
       <item itemvalue="Python.interface (2)" />
+      <item itemvalue="Python.interface" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.teste" />
     </list>
     <recent_temporary>
       <list>
@@ -225,6 +218,11 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
     <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605097335331">
       <screen x="0" y="0" width="1366" height="728" />
@@ -254,10 +252,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="443" y="84" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1605096588985" />
-    <state x="161" y="7" key="SettingsEditor" timestamp="1605096818125">
+    <state x="161" y="7" key="SettingsEditor" timestamp="1605308595343">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="161" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1605096818125" />
+    <state x="161" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1605308595343" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1604442406049">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
