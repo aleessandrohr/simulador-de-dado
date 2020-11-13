@@ -20,10 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="743276ac-8975-4342-97e7-48a596db4409" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Código/funções.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tkinter/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tkinter/interface.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Código/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/Código/index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Código/interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/Código/interface.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Código/funções.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Código/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Código/interface.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,33 +51,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Chute-o-numero" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/Alessandro" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.index">
-    <configuration name="funções" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Simulador-de-Dado" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Código" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Código/funções.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.interface (2)">
     <configuration name="index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Simulador-de-Dado" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,6 +71,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Código/index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="interface (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Simulador-de-Dado" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tkinter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tkinter/interface.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="interface (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Simulador-de-Dado" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pysimplegui" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pysimplegui/interface.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,15 +188,17 @@
       <item itemvalue="Python.main" />
       <item itemvalue="Python.index" />
       <item itemvalue="Python.interface" />
-      <item itemvalue="Python.funções" />
       <item itemvalue="Python.teste" />
+      <item itemvalue="Python.interface (1)" />
+      <item itemvalue="Python.interface (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.interface (2)" />
+        <item itemvalue="Python.interface (1)" />
         <item itemvalue="Python.index" />
         <item itemvalue="Python.interface" />
         <item itemvalue="Python.teste" />
-        <item itemvalue="Python.funções" />
       </list>
     </recent_temporary>
   </component>
@@ -200,33 +226,45 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604441316978">
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605097335331">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1604441316978" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1604616994749">
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1605097335331" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1605099213547">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604616994749" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1605059248583">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1605099213547" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1605100026691">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605059248583" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1605059248582">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605100026691" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1605100026691">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605059248582" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1605059248582">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605100026691" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1605100026690">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605059248582" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1605059248583">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605100026690" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1605100026691">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605059248583" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605100026691" />
+    <state x="443" y="84" key="RollbackChangesDialog" timestamp="1605096588985">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="443" y="84" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1605096588985" />
+    <state x="161" y="7" key="SettingsEditor" timestamp="1605096818125">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="161" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1605096818125" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1604442406049">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1604442406049" />
+    <state x="405" y="275" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1605098517004">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="405" y="275" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.728@0.0.1366.728" timestamp="1605098517004" />
   </component>
 </project>

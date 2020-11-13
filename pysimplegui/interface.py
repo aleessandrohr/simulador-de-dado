@@ -35,4 +35,5 @@ class Interface:
                         c += 1
                     print('-' * 52)
 tela = Interface()
+tela.Iniciar()
 
