@@ -1,2 +1,2 @@
 # Simulador de Dado
- Um progama simples que simula um dado.
+ Um programa simples que simula um dado.
